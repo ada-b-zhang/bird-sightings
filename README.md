@@ -14,7 +14,11 @@
    python scattermap.py
    ```
    Copy and paste the `http` link into a web browser
-4. Run `bird.py` in the terminal to make predictions:
+4. Navigate to `modeling` directory:
+   ```
+   cd modeling
+   ```
+   Run `bird.py` in the terminal to make predictions:
    ```
    python bird.py
    ```
