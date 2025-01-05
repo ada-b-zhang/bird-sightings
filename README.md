@@ -1,4 +1,4 @@
-# bird-sightings
+# Bird Sightings in Northern California and Nevada
 
 ## What does this repository do? 
 You can see bird sighting locations in Northern California and Nevada:  
@@ -13,7 +13,7 @@ or predict future bird sightings:
 ## Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ada-b-zhang/linear-regression-app.git
+   git clone https://github.com/ada-b-zhang/bird-sightings.git
    ```
 
 2. Navigate to `bird-sightings` directory
