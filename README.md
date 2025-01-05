@@ -1,7 +1,7 @@
 # bird-sightings
 
 ## What does this repository do? 
-You can bird sighting locations in Northern California and Nevada:  
+You can see bird sighting locations in Northern California and Nevada:  
   <img width="500" alt="map" src="https://github.com/user-attachments/assets/8a7261d2-a574-4c07-ac71-1d10dd5bb189" />
   
 
